@@ -31,23 +31,6 @@ public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
-        String word = "madam";
-
-        // Reverse method timing
-        long startTime = System.nanoTime();
-        reverseMethod(word);
-        long endTime = System.nanoTime();
-
-        long reverseTime = endTime - startTime;
-
-        // Two pointer method timing
-        startTime = System.nanoTime();
-        twoPointerMethod(word);
-        endTime = System.nanoTime();
-
-        long pointerTime = endTime - startTime;
-
-        System.out.println("Reverse Method Time: " + reverseTime + " ns");
-        System.out.println("Two Pointer Method Time: " + pointerTime + " ns");
+        System.out.println("UC14");
     }
 }
