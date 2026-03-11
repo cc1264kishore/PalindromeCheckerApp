@@ -1,4 +1,4 @@
-public class UseCase13PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
     // Reverse string method
     public static boolean reverseMethod(String word) {
