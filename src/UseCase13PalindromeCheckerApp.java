@@ -1,3 +1,5 @@
+package PalindromeCheckerApp;
+
 public class UseCase13PalindromeCheckerApp {
 
     // Reverse string method

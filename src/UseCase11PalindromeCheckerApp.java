@@ -1,3 +1,5 @@
+package PalindromeCheckerApp;
+
 class PalindromeChecker {
 
     public boolean checkPalindrome(String word) {

@@ -1,3 +1,5 @@
+package PalindromeCheckerApp;
+
 import java.util.Stack;
 
 public class UseCase5PalindromeCheckerApp {

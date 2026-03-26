@@ -1,3 +1,4 @@
+package PalindromeCheckerApp;
 public class UseCase9PalindromeCheckerApp {
 
     // Recursive function

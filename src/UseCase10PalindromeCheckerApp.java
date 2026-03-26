@@ -1,4 +1,6 @@
-public class UseCase10PalindromeCheckerApp {
+package PalindromeCheckerApp;
+
+public class  UseCase10PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
